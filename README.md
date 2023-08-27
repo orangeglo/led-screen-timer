@@ -3,7 +3,7 @@ A Game Boy ROM for measuring screen latency. Runs at 60 FPS. Triggering a screen
 
 When you trigger the screen change, the ROM will attempt to turn on an LED connected to the cart, as well as the IR LED on a GBC. You can film the screen and LED in slow motion together to roughly measure screen latency, and observe other aspects of the screen's performance.
 
-https://github.com/orangeglo/led-screen-timer/assets/2780987/2da9b248-0de4-4ece-8a45-c7ba26bca51d
+https://github.com/orangeglo/led-screen-timer/assets/2780987/04ec0589-df11-4860-8149-957d8e9992de
 
 *Q5 GBC kit filmed on iPhone SE 3rd Gen, 237 FPS*
 
