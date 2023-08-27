@@ -10,3 +10,5 @@ https://github.com/orangeglo/led-screen-timer/assets/2780987/2da9b248-0de4-4ece-
 ## Cart Compatibility
 
 The only off the shelf cart that is supported is the [insideGadgets 512KB cart with LED](https://shop.insidegadgets.com/product/gameboy-512kb-rom-only-with-white-led/). It may be desirable to modify the cart and move the LED to be more visible depending on your filming setup.
+
+## [Download Latest Release](https://github.com/orangeglo/led-screen-timer/releases/latest)
